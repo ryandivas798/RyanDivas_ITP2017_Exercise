@@ -1,0 +1,11 @@
+#This is exercise for upper,lower and title cases
+name = 'Ryan divas'
+print(name.title())
+print(name.lower())
+print(name.upper())
+
+#Maths...yayyyy...
+print(6+2)
+print(10-2)
+print(4*2)
+print(24/3)

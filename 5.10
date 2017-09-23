@@ -1,0 +1,17 @@
+current_users = ['Krazy','Noob','Gon','Uble3','Revoir']
+new_users = ['Misty','Noob','Lumina','Juxta','Revoir']
+current_users = 'Krazy'
+for current_user in current_users:
+    if current_user in new_users:
+        print('You will need to enter a new username')
+else:
+    print('That username is avaialable')
+
+current_users = ['Krazy','Noob','Gon','Uble3','Revoir']
+new_users = ['Misty','Noob','Lumina','Juxta','Revoir']
+new_users = 'Revoir'
+for current_user in current_users:
+    if current_user in new_users:
+        print('You will need to enter a new username')
+else:
+    print('That username is avaialable')

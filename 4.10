@@ -1,0 +1,17 @@
+favouriteanimals = ['Dog','Cat','Hamster','Parrot','Penguins']
+for favorite in  favouriteanimals:
+    print('A ' + favorite + ' would be lovely as a pet')
+
+print('They all have four legs and are so cute! Any of these animals would make a lovely pet')
+
+
+favouriteanimals = ['Dog','Cat','Hamster','Parrot','Penguins']
+print('The first three items in the list are:')
+print(favouriteanimals[0:3])
+print('The first three items in the list are:')
+print(favouriteanimals[1:4])
+print('The first three items in the list are:')
+print(favouriteanimals[2:5])
+
+
+

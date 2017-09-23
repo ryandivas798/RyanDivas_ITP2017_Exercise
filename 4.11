@@ -1,0 +1,6 @@
+favouritepizzas = ['Pepperoni','New York Style','Neapolitan','Greek']
+friend_pizzas = ['Pepperoni','New York Style','Neapolitan','California']
+for favorite in favouritepizzas:
+    print('My favourite pizzas are ' + favorite + ' pizza')
+for favorites in friend_pizzas:
+    print('My friends favourite pizzas are ' + favorites + ' pizza')
